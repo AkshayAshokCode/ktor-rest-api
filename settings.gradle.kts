@@ -1,0 +1,1 @@
+rootProject.name = "com.akshayashokcode.ktor-rest-api"
